@@ -6,4 +6,4 @@ crash.log
 *.bak
 *.zip
 *.tar
-*.gz
+*.gz.terraform/
