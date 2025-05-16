@@ -67,3 +67,11 @@ https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/secu
 Step 8: create s3 bukket
 
 step 9: create ec2 instance
+
+step 10: create two user data shell scripts
+![alt text](<images/Screenshot 2025-05-16 at 13.43.43.png>)
+
+Now i am checking the webpage
+![alt text](<images/Screenshot 2025-05-16 at 13.44.41.png>)
+
+
