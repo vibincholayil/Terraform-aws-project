@@ -56,6 +56,14 @@ insert availabily extention a (eu-west-2a, eu-west-2b)
 successfully created now
 ![alt text](<images/Screenshot 2025-05-16 at 11.25.03.png>)
 
+This is the resorce creted by terraform:
+![alt text](<images/Screenshot 2025-05-16 at 11.40.11.png>)
 
 
+Step7: create Security group
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group
 
+
+Step 8: create s3 bukket
+
+step 9: create ec2 instance
